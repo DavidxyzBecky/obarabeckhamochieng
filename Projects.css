@@ -1,0 +1,18 @@
+h1{
+  font-size:large;
+}
+body{
+    background-color: #333;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    position: fixed;
+            bottom: 10px;
+            right: 10px;
+            color: #fff;
+            font-size: 0.8em;
+}
+a{
+  color:lime;
+}
